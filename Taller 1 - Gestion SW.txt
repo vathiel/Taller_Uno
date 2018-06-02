@@ -1,0 +1,11 @@
+Taller.
+
+1. Conformar equipos de 3 estudiantes y crear un repositorio en github.com - OK
+
+2. Definir un estándar de codificación - OK
+   Asignar tareas a cada uno de los participantes
+	
+3. Crear pruebas unitarias con Junit para cada método de conteo
+4. Documentar las clases usando Javadoc
+5. Nombrar a un representante por grupo para que haga una introducción de github, junit y javadoc
+6. Fecha de entrega 05/06/2018
